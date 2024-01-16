@@ -21,8 +21,7 @@ arr.reverse();
 x = arr.includes(445);
 
 // indexOf() - Return the index of the first match
-
-x = arr.indexOf(28);""
+x = arr.indexOf(28);
 
 // Return array as a string
 x = arr.toString();
